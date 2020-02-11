@@ -158,7 +158,7 @@ h4{
 	text-align: center;
 }
 h5{
-	font-size: 17px;
+	font-size: 10pxpx;
 	color: maroon;
 }
 ul{
@@ -214,6 +214,8 @@ footer{
 	/* animation-fill-mode: forwards; */
 	animation-direction: alternate-reverse;
 }
+
+
 .float{
 	float: left;
 }
@@ -223,9 +225,6 @@ footer{
 @keyframes drive{
 	from{ transform: translateX(0)}
 	to{ transform: translateX(500px)}
-}
-img{
-	float: left;
 }
 /* @keyframes{
 	to{ transform: translateX(500px)}
