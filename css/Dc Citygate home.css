@@ -65,6 +65,9 @@ body{
     margin: 10px 0 0;
     padding: 0;
 }
+.bar{
+	float: right;
+}
 p{
     /* background-color: maroon;
     width: 1300px;
@@ -170,7 +173,7 @@ ul{
 	list-style: none;
 }
 ol{
-	list-style: none;
+	/* list-style: none; */
 }
 ol li{
 	color: green;
